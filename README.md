@@ -5,7 +5,7 @@ English / [Simplified Chinese](./README_CN.md) / [Hindi](./README_HI.md) / [Kann
 
 NeuralBlend_LLM is India's first and most advanced open-source Language Learning Model (LLM) designed specifically for professional use, including learning, trading, consulting, and more.
 
-![NeuralBlend_LLM Logo](./images/logo.png) 
+![NeuralBlend_LLM Logo](./logo.png) 
 
 ## Features
 
