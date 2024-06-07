@@ -12,7 +12,6 @@
 <p align="center">
     <a href="https://huggingface.co/hfl">🤗 Hugging Face</a> •
     <a href="https://modelscope.cn/profile/ChineseAlpacaGroup">🤖 ModelScope</a> •
-    <a href="https://sota.jiqizhixin.com/project/chinese-llama-alpaca-3">🐿️ 机器之心SOTA!模型</a> •
     <a href="https://wisemodel.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-v3">🟣 wisemodel</a> •
     <a href="https://huggingface.co/spaces/hfl-rc/llama-3-chinese-8b-instruct-demo">🤗 Online Demo</a>
 </p>
