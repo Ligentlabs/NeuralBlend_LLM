@@ -62,5 +62,3 @@ For any questions or issues, please refer to the FAQ section or open a new issue
 We would like to express our gratitude to the AI and open-source communities in India for their support and contributions to this project. We look forward to seeing NeuralBlend_LLM grow and evolve with your help. :heart:
 
 ![Community Image](./images/community_image.png)
-
-Please note that you will need to create `README_HI.md` and `README_KN.md` files for the Hindi and Kannada versions of the README, respectively.
