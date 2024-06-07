@@ -36,8 +36,6 @@ NeuralBlend_LLM is India's first and most advanced open-source Language Learning
 3. Run the setup scripts to initialize the model.
 4. Start using NeuralBlend_LLM in your applications!
 
-![Getting Started Diagram](./images/getting_started_diagram.png)
-
 ## Roadmap
 
 - [x] Initial release of NeuralBlend_LLM
@@ -46,7 +44,6 @@ NeuralBlend_LLM is India's first and most advanced open-source Language Learning
 - [ ] Support for more languages and dialects
 - [ ] Real-time language processing capabilities
 
-![Roadmap Graph](./images/roadmap_graph.png)
 
 ## Contributing
 
