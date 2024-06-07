@@ -1,4 +1,3 @@
-Sure, here's how you can add links to Hindi and Kannada versions of the README:
 
 # NeuralBlend_LLM
 
