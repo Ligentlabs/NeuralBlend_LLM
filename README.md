@@ -1,3 +1,22 @@
+<p align="center">
+    <br>
+<div align="center">
+  <img src="./logo.png" alt="NeuralBlend_LLM Logo" width="200" />
+</div>    <br>
+</p>
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/github/license/ymcui/Chinese-LLaMA-Alpaca-3.svg?color=blue&style=flat-square">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ymcui/Chinese-LLaMA-Alpaca-3">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ymcui/Chinese-LLaMA-Alpaca-3">
+    <a href="https://app.codacy.com/gh/ymcui/Chinese-LLaMA-Alpaca-3/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/142d688425494644b5b156068f55370d"/></a>
+</p>
+<p align="center">
+    <a href="https://huggingface.co/hfl">🤗 Hugging Face</a> •
+    <a href="https://modelscope.cn/profile/ChineseAlpacaGroup">🤖 ModelScope</a> •
+    <a href="https://sota.jiqizhixin.com/project/chinese-llama-alpaca-3">🐿️ 机器之心SOTA!模型</a> •
+    <a href="https://wisemodel.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-v3">🟣 wisemodel</a> •
+    <a href="https://huggingface.co/spaces/hfl-rc/llama-3-chinese-8b-instruct-demo">🤗 Online Demo</a>
+</p>
 
 # NeuralBlend_LLM
 
@@ -5,9 +24,6 @@ English / [Simplified Chinese](./README_CN.md) / [Hindi](./README_HI.md) / [Kann
 
 NeuralBlend_LLM is India's first and most advanced open-source Language Learning Model (LLM) designed specifically for professional use, including learning, trading, consulting, and more.
 
-<div align="center">
-  <img src="./logo.png" alt="NeuralBlend_LLM Logo" width="200" />
-</div>
 ## Features
 
 - **Designed for professional use**: NeuralBlend_LLM is created with professional applications in mind. It is ideal for learning, trading, consulting, and other professional services. :books: :chart_with_upwards_trend: :briefcase:
